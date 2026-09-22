@@ -1,0 +1,5 @@
+User1#//#Ahmad Ali#//#27#//#U001#//#1234#//#0598123456#//#Tulkarm#//#ahmad@gmail.com#//#-1
+User2#//#Mohammed Khaled#//#24#//#U002#//#5678#//#0599234567#//#Nablus#//#mohammed@gmail.com#//#-1
+User3#//#Omar Hassan#//#28#//#U003#//#1234#//#0567345789#//#Jenin#//#omar@gmail.com#//#0
+User4#//#Yousef Ahmad#//#29#//#U004#//#9876#//#0598456789#//#Jenin#//#yousef@gmail.com#//#2
+User5#//#Ahmad-Asad#//#22#//#U005#//#1234#//#058888910#//#Tulkarm#//#Ahmad@gmail.com#//#3

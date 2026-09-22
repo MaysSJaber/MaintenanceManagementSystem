@@ -1,0 +1,7 @@
+O001#//#C001#//#V001#//#M002#//#Engine makes strange noise#//#IN_PROGRESS#//#5000.0
+O002#//#C002#//#V002#//#M001#//#Oil change and engine inspection#//#IN_PROGRESS#//#85.0
+O003#//#C003#//#V003#//#M002#//#Brake pads need replacement#//#COMPLETED#//#220.0
+O004#//#C004#//#V004#//#M004#//#Engine warning light is on#//#PENDING#//#180.0
+O005#//#C005#//#V005#//#M005#//#Suspension problem and unusual noise#//#IN_PROGRESS#//#350.0
+O006#//#C006#//#V006#//#M006#//#Car lights are not working#//#COMPLETED#//#120.0
+O007#//#C001#//#V007#//#M001#//#Air conditioning is not cooling#//#PENDING#//#200.0

@@ -1,0 +1,7 @@
+V001#//#C001#//#5555#//#BMW#//#2025#//#2025#//#Black
+V002#//#C002#//#7890#//#Toyota#//#Camry#//#2021#//#White
+V003#//#C003#//#2468#//#Hyundai#//#Elantra#//#2022#//#Gray
+V004#//#C004#//#1357#//#Mercedes#//#C-Class#//#2019#//#Black
+V005#//#C005#//#8642#//#Kia#//#Sportage#//#2023#//#Blue
+V006#//#C006#//#9753#//#Nissan#//#Altima#//#2020#//#Silver
+V007#//#C001#//#4321#//#Volkswagen#//#Golf#//#2018#//#Red
